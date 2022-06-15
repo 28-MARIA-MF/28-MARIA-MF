@@ -1,5 +1,5 @@
 - 👋 Hi,I'm Maria Clara
-- 👀 I like: books, fanfics,games,music,cool things
+- 👀 I like: books, fanfics,games,music...
 - 🌱 I hate: math, physics, bugs, why are they disgusting
 - 💞️ From: Brazil
 - 📫 How to reach me ... you don't care
