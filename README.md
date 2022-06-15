@@ -1,9 +1,8 @@
-# sobre mim
-- 👋 Hi,I'm @28-MARIA-MF
-- 👀 I’m interested in ...books
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi,I'm Maria Clara
+- 👀 I like: books, fanfics,games,music,cool things
+- 🌱 I hate: math, physics, bugs, why are they disgusting
+- 💞️ From: Brazil
+- 📫 How to reach me ... you don't care
 
 <!---
 28-MARIA-MF/28-MARIA-MF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
